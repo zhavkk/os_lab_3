@@ -1,0 +1,4 @@
+/home/zhavkk/OSlabs/lab3/src/CMakeFiles/child.dir
+/home/zhavkk/OSlabs/lab3/src/CMakeFiles/main.dir
+/home/zhavkk/OSlabs/lab3/src/CMakeFiles/edit_cache.dir
+/home/zhavkk/OSlabs/lab3/src/CMakeFiles/rebuild_cache.dir
